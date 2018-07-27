@@ -18,7 +18,7 @@ public class Proyectofinal {
         MenuPrincipal menu = new MenuPrincipal ();
         menu.setVisible(true);
         
-        
+        // prueba de cambio
         
         
     }
