@@ -23,7 +23,7 @@ public Connection conexion(){
       
       //.newInstance();
     Class.forName("org.gjt.mm.mysql.Driver");
-                                                                                    // aca se coloca el nombre de la base de datos
+                                                                             // aca se coloca el nombre de la base de datos
     conectar=(Connection) DriverManager.getConnection("jdbc:mysql://localhost/sistema_lavacar","root","");
     
     
